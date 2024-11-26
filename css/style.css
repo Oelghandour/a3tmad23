@@ -112,7 +112,8 @@ header nav a{
 .container3{
     margin-top: 100px;
     display: block;
-    height: 145vh;
+    height: auto;
+    padding-bottom: 1rem;
 }
 .container3 h2{
     font-size: 40px;
@@ -135,7 +136,7 @@ header nav a{
     background-image: url(../images/images\ \(1\).jpeg);
     background-size: cover;
     border-radius: 15px;
-    height: 450px;
+    height: 550px;
     width: 450px;
     text-align: center;
 }
